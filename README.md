@@ -1,5 +1,4 @@
-Primeiro commit.
+Revisando o que aprendi na faculdade sobre Python.
 
-Teste API em python com Requests (usando parametrize, arquivos CSV e try/except com erros e falhas.
-
-POST + GET.
+Fazendo teste API em Python com Requests (usando parametrize, arquivos CSV e try/except com erros e falhas).
+POST + GET + UPDATE + DELETE.
